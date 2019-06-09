@@ -18,9 +18,3 @@ The whole project will be broken down into 6 sub-categories:
     
 For python scripting guidelines, please follow this link:
 https://www.python.org/dev/peps/pep-0008/
-
-
-*Coming Soon: A repository with examples of where EasyLearn has been used*
-
- 
- 
