@@ -14,7 +14,3 @@ The whole project will be broken down into 6 sub-categories:
  4. **Auto Feature**
  5. **Auto Model**
  6. **Auto Post Process**
-
-    
-For python scripting guidelines, please follow this link:
-https://www.python.org/dev/peps/pep-0008/
